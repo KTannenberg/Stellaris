@@ -3,7 +3,6 @@
 1. Select any object in source system and add `hyperlane_manipulator_marker` flag to it:
     ```
     effect solar_system = {
-      text = "Marking..."
       set_star_flag = hyperlane_manipulator_marker
     }
     ```
