@@ -1,4 +1,8 @@
 # Useful console snippets for Stellaris
+
+## L-Gate creation
+https://steamcommunity.com/sharedfiles/filedetails/?id=2309469555
+
 ## Hyperlane modification
 You can mark multiple systems, in this case all of them will get hyperlane created/deleted to target system.
 
